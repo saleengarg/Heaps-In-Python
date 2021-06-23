@@ -1,2 +1,2 @@
 # Heaps-In-Python
-A Min-Heap is a complete binary tree in which the value in each internal node is smaller than or equal to the values in the children of that node.
+Heap is a special tree structure in which each parent node is less than or equal to its child node. Then it is called a Min Heap. If each parent node is greater than or equal to its child node then it is called a max heap.
